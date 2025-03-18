@@ -70,9 +70,7 @@
 
 <br>
 
-<p align="center">
-  <img src="https://readme-stats-streak.vercel.app?user=Bsahani08&theme=github-dark&hide_border=true" alt="Arvind's GitHub Streak">
-</p>
+
 
 <br>
 
