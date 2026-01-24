@@ -4,7 +4,7 @@
 
 > <h3 align="left">Coding my dreams into reality, I'm a software engineering enthusiast sculpting the future of tech.</h3>
 
-- 🔭 I’m currently working as <a href="https://github.com/prabhjotschugh/Music-Notes-Generation">**Programmer Analyst`**</a>
+- 🔭 I’m currently working as <a href="https://github.com/prabhjotschugh/Music-Notes-Generation">**Programmer Analyst**</a>
 
 - 📫 Always available at **[`bk0171249@gmail.com`](mailto:bk0171249@gmail.com)**
 
