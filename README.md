@@ -51,9 +51,9 @@
 <br>
 
 ><h3 align="left">🖥️ Setup:</h3>
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 <br>
 ---
 <br>
@@ -63,7 +63,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bsahani08&theme=gotham&sho_icons=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&hide=issues&show=discussions_answered&rank_icon=github" alt="Babita"s GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bsahani08&theme=gotham&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&hide=issues&show=discussions_answered&rank_icon=github" alt="Babita"s GitHub Stats">
 </p>
 
 <br>
@@ -72,16 +72,11 @@
 
 <br>
 
-![Babita's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username= Babita sahani2025&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bsahani08&theme=github-compact&hide_border=true&area=true)
 
 <br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<br>
-
-![An image of @Bsahani08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prabhjotschugh?)
-
-<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
